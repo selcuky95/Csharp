@@ -1,7 +1,0 @@
-C:\Users\Pc\Desktop\Kurs C#\Örnekler\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.exe.config
-C:\Users\Pc\Desktop\Kurs C#\Örnekler\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.exe
-C:\Users\Pc\Desktop\Kurs C#\Örnekler\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.pdb
-C:\Users\Pc\Desktop\Kurs C#\Örnekler\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.csproj.AssemblyReference.cache
-C:\Users\Pc\Desktop\Kurs C#\Örnekler\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.csproj.CoreCompileInputs.cache
-C:\Users\Pc\Desktop\Kurs C#\Örnekler\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.exe
-C:\Users\Pc\Desktop\Kurs C#\Örnekler\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.pdb
