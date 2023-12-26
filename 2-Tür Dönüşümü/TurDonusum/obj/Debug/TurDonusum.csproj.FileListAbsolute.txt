@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\Github Projeler\C#\2-Tür Dönüşümü\TurDonusum\bin\Debug\TurDonusum.exe.config
+C:\Users\Pc\Desktop\Github Projeler\C#\2-Tür Dönüşümü\TurDonusum\bin\Debug\TurDonusum.exe
+C:\Users\Pc\Desktop\Github Projeler\C#\2-Tür Dönüşümü\TurDonusum\bin\Debug\TurDonusum.pdb
+C:\Users\Pc\Desktop\Github Projeler\C#\2-Tür Dönüşümü\TurDonusum\obj\Debug\TurDonusum.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Github Projeler\C#\2-Tür Dönüşümü\TurDonusum\obj\Debug\TurDonusum.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Github Projeler\C#\2-Tür Dönüşümü\TurDonusum\obj\Debug\TurDonusum.exe
+C:\Users\Pc\Desktop\Github Projeler\C#\2-Tür Dönüşümü\TurDonusum\obj\Debug\TurDonusum.pdb
