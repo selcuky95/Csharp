@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\Github Projeler\C#\5-Array Dizisi ve Döngü ile kullanımı\ArrayLoopKullanimi\bin\Debug\ArrayLoopKullanimi.exe.config
+C:\Users\Pc\Desktop\Github Projeler\C#\5-Array Dizisi ve Döngü ile kullanımı\ArrayLoopKullanimi\bin\Debug\ArrayLoopKullanimi.exe
+C:\Users\Pc\Desktop\Github Projeler\C#\5-Array Dizisi ve Döngü ile kullanımı\ArrayLoopKullanimi\bin\Debug\ArrayLoopKullanimi.pdb
+C:\Users\Pc\Desktop\Github Projeler\C#\5-Array Dizisi ve Döngü ile kullanımı\ArrayLoopKullanimi\obj\Debug\ArrayLoopKullanimi.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Github Projeler\C#\5-Array Dizisi ve Döngü ile kullanımı\ArrayLoopKullanimi\obj\Debug\ArrayLoopKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Github Projeler\C#\5-Array Dizisi ve Döngü ile kullanımı\ArrayLoopKullanimi\obj\Debug\ArrayLoopKullanimi.exe
+C:\Users\Pc\Desktop\Github Projeler\C#\5-Array Dizisi ve Döngü ile kullanımı\ArrayLoopKullanimi\obj\Debug\ArrayLoopKullanimi.pdb

@@ -1,0 +1,14 @@
+C:\Users\Pc\Desktop\Github Projeler\C#\6-List Oluşturma\ListOlusturma\bin\Debug\ListOlusturma.exe.config
+C:\Users\Pc\Desktop\Github Projeler\C#\6-List Oluşturma\ListOlusturma\bin\Debug\ListOlusturma.exe
+C:\Users\Pc\Desktop\Github Projeler\C#\6-List Oluşturma\ListOlusturma\bin\Debug\ListOlusturma.pdb
+C:\Users\Pc\Desktop\Github Projeler\C#\6-List Oluşturma\ListOlusturma\obj\Debug\ListOlusturma.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Github Projeler\C#\6-List Oluşturma\ListOlusturma\obj\Debug\ListOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Github Projeler\C#\6-List Oluşturma\ListOlusturma\obj\Debug\ListOlusturma.exe
+C:\Users\Pc\Desktop\Github Projeler\C#\6-List Oluşturma\ListOlusturma\obj\Debug\ListOlusturma.pdb
+C:\Users\Pc\Desktop\Atılcaklar\Github Projeler\C#\6-List Oluşturma\ListOlusturma\bin\Debug\ListOlusturma.exe.config
+C:\Users\Pc\Desktop\Atılcaklar\Github Projeler\C#\6-List Oluşturma\ListOlusturma\bin\Debug\ListOlusturma.exe
+C:\Users\Pc\Desktop\Atılcaklar\Github Projeler\C#\6-List Oluşturma\ListOlusturma\bin\Debug\ListOlusturma.pdb
+C:\Users\Pc\Desktop\Atılcaklar\Github Projeler\C#\6-List Oluşturma\ListOlusturma\obj\Debug\ListOlusturma.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Atılcaklar\Github Projeler\C#\6-List Oluşturma\ListOlusturma\obj\Debug\ListOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Atılcaklar\Github Projeler\C#\6-List Oluşturma\ListOlusturma\obj\Debug\ListOlusturma.exe
+C:\Users\Pc\Desktop\Atılcaklar\Github Projeler\C#\6-List Oluşturma\ListOlusturma\obj\Debug\ListOlusturma.pdb
